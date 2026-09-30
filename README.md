@@ -90,8 +90,9 @@ I learned how to:
 - Kaggle
 
 ## Project Structure
-diamond-price-prediction-snowflake/
+diamond-price-prediction-snowflake
 │
+|
 ├── README.md                  
 ├── DIAMOND_PRICE_MODEL_TRAINING.ipynb
 ├── streamlit_app.py
