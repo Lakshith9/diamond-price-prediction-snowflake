@@ -92,7 +92,7 @@ I learned how to:
 ## Project Structure
 diamond-price-prediction-snowflake/
 │
-├── README.md                    ✅
+├── README.md                  
 ├── DIAMOND_PRICE_MODEL_TRAINING.ipynb
 ├── streamlit_app.py
 └── setup.sql
