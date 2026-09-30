@@ -91,7 +91,6 @@ I learned how to:
 
 ## Project Structure
 diamond-price-prediction-snowflake
-│
 |
 ├── README.md                  
 ├── DIAMOND_PRICE_MODEL_TRAINING.ipynb
